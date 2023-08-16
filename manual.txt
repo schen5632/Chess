@@ -1,0 +1,2 @@
+add <type> <name>: add player of type {human, computer[1-4]} with <name>
+game <name> <name>: start new game

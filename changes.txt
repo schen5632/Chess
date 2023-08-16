@@ -1,0 +1,7 @@
+Add exception to Board::placePiece
+    returns exception if char is wrong, coordinates are out of bounds
+    Catch exception in Chess::userSetup
+Implement Piece::inCheck
+Change arg of Piece::possibleMoves to Board class
+At start of game/after every move, run Piece::possibleMoves on every piece
+
